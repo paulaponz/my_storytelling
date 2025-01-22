@@ -36,11 +36,10 @@ Nombre:
 ### Historia
 
 
-### Contexto
+### TagLine
 
 
 ### Conflicto 
-
 
 
 ### Productos
@@ -74,6 +73,7 @@ Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908)
 
 
 Febrero, 202X
+![](https://github.com/mgea/CRIAv/blob/main/logo_criav75.png)
 
 Proyecto dentro de la serie [Narrativas interactivas](https://github.com/mgea/storytelling/blob/master/What_is_a_digital_storytelling.md) 
 Proyectos seleccionados de [2023](https://github.com/mgea/storytelling/tree/master/2023), [2022](https://github.com/mgea/storytelling/blob/master/2022/readme.md) / [2021](https://github.com/mgea/storytelling/blob/master/2021/readme.md) / [2020](https://github.com/mgea/storytelling/blob/master/2020/readme.md)  / 
