@@ -16,6 +16,8 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 
 
 Proyecto (código): 
+URL (link) del proyecto en Github: 
+
 
 Tipo/Género:  
 - [x] FictionCiberpunk  
