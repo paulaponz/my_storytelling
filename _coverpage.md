@@ -1,12 +1,12 @@
 <!-- _coverpage.md -->
 
 
-# Comercio Sostenible 2024/25
-## UX Case Study
+# Creatividad e Innovación Audiovisual
+## My Storytelling, 202X
 
 
 
-<img align="center" src="./img/logo_diu25_mini.png" width="600" height=auto alt="Logotipo"/>
+<img align="center" src="[./img/logo_diu25_mini.png](https://github.com/mgea/CRIAv/blob/main/CRIAV_logoBN.png?raw=true)" width="300" height=auto alt="Logotipo"/>
 
 
 
