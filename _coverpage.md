@@ -6,7 +6,7 @@
 
 
 
-<img align="center" src="[./img/logo_diu25_mini.png](https://github.com/mgea/CRIAv/blob/main/CRIAV_logoBN.png?raw=true)" width="300" height=auto alt="Logotipo"/>
+<img align="center" src="https://github.com/mgea/CRIAv/blob/main/CRIAV_logoBN.png?raw=true" width="300" height=auto alt="Logotipo"/>
 
 
 
@@ -14,11 +14,11 @@
 
 ### Prácticas de la asignatura Diseño de interfaces de Usuario
 
-#### ETSI Informática y Telecomunicación. Universidad de Granada, 2025
+#### Comunidación Audiovisual, Facultad de Comunicación y Documentación. Universidad de Granada, 202X
 
 
 
-[GitHub](https://github.com/mgea/UX_CaseStudy)
-[Comenzar](#DIU)
+[GitHub](https://github.com/mgea/my_storytelling)
+[Comenzar](#storytelling)
 
 <!-- background color -->
